@@ -28,6 +28,8 @@ public class ListToMapDuplicatedKey {
                 Collectors.toMap(Hosting::getName, Hosting::getWebSites)
         );
 
+
+
         /**
          * Solution
          */
